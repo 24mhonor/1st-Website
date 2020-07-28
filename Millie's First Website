@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Millie’s First Webpage </title>
+  <title> Millie’s First Webpage </title>
+  <!-- This is a comment -->
+  <!-- This is internal CSS -->
+  <style>
+            h1 { color : red; }
+  </style>
 </head>
  
 <body>
-  <h2 style=“color:pink;”> Welcome! </h2>
+  <h2 style=“color:pink; background-color:green;”> Welcome! </h2>
  
 </body>
 </html>
